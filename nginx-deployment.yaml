@@ -23,4 +23,4 @@ spec:
     spec:
       containers:
         - name: cont
-          image: pawani2k2/meri-sexy-repo:v14
+          image: pawani2k2/meri-sexy-repo:v15
